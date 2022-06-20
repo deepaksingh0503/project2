@@ -23,17 +23,17 @@ body, html{
   }
   
   .outer1{
-    background-image:url(/section4.jpg);
+    background-image:url("images/section4.jpg");
     min-height:100%;
   }
   
   .outer2{
-    background-image:url(/lightcity.jpg);
+    background-image:url("images/lightcity.jpg");
     min-height:400px;
   }
   
   .outer3{
-    background-image:url(/burjkhalifa.webp);
+    background-image:url("images/burjkhalifa.webp");
     min-height:400px;
   }
   
