@@ -75,6 +75,6 @@ body, html{
   
   @media(max-width:568px){
     .outer1, .outer2, .outer3{
-      background-attachment:scroll;
+      background-attachment:fixed;
     }
   }
