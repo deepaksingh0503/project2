@@ -21,7 +21,11 @@ body, html{
     */
     background-attachment:fixed;
   }
-  
+  p{
+      
+      max-width: 80%;
+      margin : auto;
+}
   .outer1{
     background-image:url("images/section4.jpg");
     min-height:100%;
